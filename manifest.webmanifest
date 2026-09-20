@@ -1,0 +1,39 @@
+{
+  "name": "Allan Health Consultancy",
+  "short_name": "Allan Health",
+  "description": "Medical travel support in Bangalore, Chennai and Hyderabad.",
+  "start_url": "index.html",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0B3C49",
+  "theme_color": "#0B3C49",
+  "icons": [
+    {
+      "src": "assets/img/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/img/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/img/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Book a free consultation",
+      "url": "contact-us.html"
+    },
+    {
+      "name": "Gift of Health coupons",
+      "url": "gift-of-health-coupons.html"
+    }
+  ]
+}
